@@ -20,3 +20,7 @@ nr1 create
 ```
 
 > Example: `nr1 create --type nerdlet --name my-nerdlet`.
+
+# Screenshot
+
+![Alt text](/images/s1.jpg?raw=true "screenshot")
