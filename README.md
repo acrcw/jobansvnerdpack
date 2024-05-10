@@ -23,4 +23,4 @@ nr1 create
 
 # Screenshot
 
-![Alt text](/images/s1.jpg?raw=true "screenshot")
+![Alt text](/images/s1.png?raw=true "screenshot")
